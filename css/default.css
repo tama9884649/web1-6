@@ -1,3 +1,29 @@
+.btn {
+    -webkit-appearance: none;
+    margin: 5px;
+}
+.btn {
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+    margin: 5px;
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+    border: none;
+    font-size: 16px;
+}
+
+.btn:hover {
+    opacity: 0.7;
+}
+
+.btn:active {
+    color: white;
+}
+
+.btn-submit {
+    background-color: lightcoral;
+}
 #ingredient{
     border: 2px solid lightcoral;
 }
