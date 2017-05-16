@@ -59,7 +59,7 @@ td{
     border: 1px solid lightcoral;
     padding: 5px;
     width: 80px;
-    text-align right;
+    text-align: right;
 }
 caption{
     padding: 5px;
